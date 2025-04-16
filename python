@@ -1,0 +1,1 @@
+print('positive number') if number > 0 else print('negative') 
